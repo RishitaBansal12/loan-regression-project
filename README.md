@@ -63,10 +63,10 @@ All three models performed identically — confirming no overfitting in the base
 ## 📊 Visual Highlights
 
 ### Residual Analysis
-![Residual Plot](Residual Analysis.png)
+![Residual Plot](residual_plot.png)
 
 ### Feature Coefficients
-![Coefficient Plot](Coefficient Analysis.png)
+![Coefficient Plot](coefficient_plot.png)
 
 ---
 
