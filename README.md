@@ -29,7 +29,7 @@ This project builds a regression model to predict the loan amount a customer qua
 ---
 
 ## ⚙️ Project Workflow
-Raw Data → Cleaning → EDA → Feature Engineering → Scaling → Modelling → Evaluation
+> Raw Data → Cleaning → EDA → Feature Engineering → Scaling → Modelling → Evaluation
 
 1. **Data Cleaning** — removed impossible ages (>100) and employment lengths (>60), filled missing values with median
 2. **EDA** — correlation heatmap, distribution plots, boxplots by category
