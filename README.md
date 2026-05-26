@@ -60,6 +60,16 @@ All three models performed identically — confirming no overfitting in the base
 
 ---
 
+## 📊 Visual Highlights
+
+### Residual Analysis
+![Residual Plot](Residual Analysis.png)
+
+### Feature Coefficients
+![Coefficient Plot](Coefficient Analysis.png)
+
+---
+
 ## ⚠️ Limitations
 
 - **Heteroscedasticity** detected in residuals — model errors grow for higher loan amounts, violating a core linear regression assumption
