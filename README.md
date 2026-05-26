@@ -120,3 +120,10 @@ loan_regression_project/
 - [ ] Try Random Forest and XGBoost to handle heteroscedasticity
 - [ ] Hyperparameter tune Ridge/Lasso alpha using cross-validation
 - [ ] Use the same dataset for classification (predicting loan_status) using Logistic Regression
+
+---
+
+## Author
+Rishita Bansal  
+https://www.linkedin.com/in/rish-bansal/
+https://github.com/RishitaBansal12
